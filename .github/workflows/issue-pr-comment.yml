@@ -1,4 +1,4 @@
-name: "Issue or PR or Comment"
+name: "Issue or PR or Comment on deploy-on-comment branch"
 
 on:
   # Trigger the workflow on new issues
