@@ -1,4 +1,4 @@
-name: "Deploy on Comment"
+name: "Deploy on Comment on deploy-on-comment branch"
 
 # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows
 on:
